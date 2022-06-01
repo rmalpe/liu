@@ -1,0 +1,9 @@
+[scanners]
+[scanners.GoldDigger]
+filename = "/home/woyce/Desktop/Development/LiuAlgoTrader/liualgotrader/gold.py"
+recurrence = 5
+target_strategy_name = "BandTrade"
+[strategies]
+[strategies.BandTrade]
+filename = "/home/woyce/Desktop/Development/LiuAlgoTrader/liualgotrader/bandtrade.py"
+portfolio_id = "ec00c947-f518-4d22-bb44-0ce022050867"
